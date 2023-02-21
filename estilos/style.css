@@ -98,9 +98,9 @@ div.campo > span {
 div.campo > input {
     background-color: var(--verde-mais-claro);
     font-size: 1em;
-    height: 97%;
-    width: calc(100% - 60px);
-    transform: translateY(-14.2px);
+    height: 95%;
+    width: calc(100% - 42.8px);
+    transform: translateY(-14.5px);
     border: 0px;
     border-radius: 8px;
     padding: 3px;
